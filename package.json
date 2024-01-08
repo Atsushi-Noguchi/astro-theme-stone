@@ -22,6 +22,7 @@
     "tailwindcss": "3.3.3"
   },
   "devDependencies": {
+    "@types/alpinejs__collapse": "^3.13.3",
     "prettier": "^3.1.1",
     "prettier-plugin-astro": "^0.12.3"
   }
